@@ -22,3 +22,9 @@ Photos of Project:
 <img src="https://github.com/user-attachments/assets/8187cf82-8f9c-478a-a361-b188de029923" width="200">
 
 <img src="https://github.com/user-attachments/assets/20f9bb24-89f7-4110-bfb3-aa8e7978fe16" width="200">
+
+<style>
+  img {
+    padding: 10px;
+  }
+</style>
