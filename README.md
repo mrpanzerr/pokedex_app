@@ -25,7 +25,7 @@ Photos of Project:
 
 <style>
   img {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
   }
 </style>
