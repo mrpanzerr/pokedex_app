@@ -33,4 +33,4 @@ Pokemon Encyclopedia Application
 <br><br>
 
 <p><strong>Profile Customization</strong></p>
-<img src="https://github.com/user-attachments/assets/6511084e-0e86-466d-a375-4f8abe5353f1" width="200">
+<img src="https://github.com/user-attachments/assets/5fe987ca-1fac-4830-bccc-ff5285ebbc06" width="200">
