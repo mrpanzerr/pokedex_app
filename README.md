@@ -29,7 +29,7 @@ Pokemon Encyclopedia Application
 <img src="https://github.com/user-attachments/assets/7a6a94a8-dc1a-4fbc-acb9-df43a41130e7" width="200">
 
 <figure>
-  <img src="https://github.com/user-attachments/assets/8187cf82-8f9c-478a-a361-b188de029923" width="200">
+  <img src="https://github.com/user-attachments/assets/8187cf82-8f9c-478a-a361-b188de029923" width="180">
   <figcaption>Detailed Info Page</figcaption>
 </figure>
 <br><br>
