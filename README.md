@@ -4,6 +4,7 @@ Pokemon Encyclopedia Application
 Photos of Project:
 
 <img src="https://github.com/user-attachments/assets/682ce47a-6139-42e9-b6e9-91dfa5381307" width="200">
+<br>
 
 <img src="https://github.com/user-attachments/assets/db13210c-300e-4a1b-9df9-9361e15c9705" width="200">
 
@@ -22,10 +23,3 @@ Photos of Project:
 <img src="https://github.com/user-attachments/assets/8187cf82-8f9c-478a-a361-b188de029923" width="200">
 
 <img src="https://github.com/user-attachments/assets/20f9bb24-89f7-4110-bfb3-aa8e7978fe16" width="200">
-
-<style>
-  img {
-    margin-left: 100px;
-    margin-right: 100px;
-  }
-</style>
