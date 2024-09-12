@@ -6,8 +6,7 @@ Pokemon Encyclopedia Application
 <p><strong>Login Page</strong></p>
 <img src="https://github.com/user-attachments/assets/4ff751bf-2745-474f-8e14-971783e7a635" width="200">
 
-<img src="https://github.com/user-attachments/assets/f94808c8-6658-4362-8152-cc76f799f6b9" width="200"><
-
+<img src="https://github.com/user-attachments/assets/f94808c8-6658-4362-8152-cc76f799f6b9" width="200">
 <br>
 
 <img src="https://github.com/user-attachments/assets/13ff2f0c-c35a-4659-90dc-5c0d01e0dcaa" width="200">
