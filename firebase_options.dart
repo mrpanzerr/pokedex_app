@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDHAbmuyNrEMyQquWtGnuaTtDjlc9kBpD0',
+    apiKey: '',
     appId: '1:646016974455:android:dd8369b2016ce65faf1072',
     messagingSenderId: '646016974455',
     projectId: 'pokedex-998ae',
