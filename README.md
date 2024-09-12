@@ -1,6 +1,7 @@
 # pokedex_app
 Pokemon Encyclopedia Application
 
+<p align="center">
 # Photos of Project
 
 <p><strong>Login Page</strong></p>
@@ -26,7 +27,6 @@ Pokemon Encyclopedia Application
 <br><br>
 
 <p><strong>Sort By Favorite</strong></p>
-<p align="center">
 <img src="https://github.com/user-attachments/assets/7a6a94a8-dc1a-4fbc-acb9-df43a41130e7" width="200">
 
 <img src="https://github.com/user-attachments/assets/8187cf82-8f9c-478a-a361-b188de029923" width="200">
