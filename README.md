@@ -28,29 +28,10 @@ Pokemon Encyclopedia Application
 <p><strong>Sort By Favorite</strong></p>
 <img src="https://github.com/user-attachments/assets/7a6a94a8-dc1a-4fbc-acb9-df43a41130e7" width="200">
 
-<figure>
-  <img src="https://github.com/user-attachments/assets/8187cf82-8f9c-478a-a361-b188de029923" width="200">
-  <figcaption>Detailed Info Page</figcaption>
-</figure>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8187cf82-8f9c-478a-a361-b188de029923" width="200">
+<p align="center">Detailed Info Page</p>
 <br><br>
 
 <p><strong>Profile Customization</strong></p>
 <img src="https://github.com/user-attachments/assets/20f9bb24-89f7-4110-bfb3-aa8e7978fe16" width="200">
-
-<style>
-  figure {
-    display: block;
-    text-align: center; /* Optional: Centers the image and caption */
-  }
-  
-  figure img {
-    display: block;
-    margin: 0 auto; /* Optional: Centers the image */
-  }
-  
-  figure figcaption {
-    display: block;
-    text-align: center; /* Optional: Centers the caption text */
-    margin-top: 5px; /* Optional: Adds some space between the image and the caption */
-  }
-</style>
