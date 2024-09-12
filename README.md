@@ -2,7 +2,7 @@
 Pokemon Encyclopedia Application
 
 Photos of Project
-![Screenshot_20240508-165359]("https://github.com/user-attachments/assets/682ce47a-6139-42e9-b6e9-91dfa5381307" width="200")
+<img src="https://github.com/user-attachments/assets/682ce47a-6139-42e9-b6e9-91dfa5381307" width="200">
 
 ![Screenshot_20240508-165414](https://github.com/user-attachments/assets/db13210c-300e-4a1b-9df9-9361e15c9705)
 
