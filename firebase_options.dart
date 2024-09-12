@@ -45,7 +45,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: '',
-    appId: '1:646016974455:web:b02c89e2773832b1af1072',
+    appId: '',
     messagingSenderId: '646016974455',
     projectId: 'pokedex-998ae',
     authDomain: 'pokedex-998ae.firebaseapp.com',
@@ -55,15 +55,15 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: '',
-    appId: '1:646016974455:android:dd8369b2016ce65faf1072',
+    appId: '',
     messagingSenderId: '646016974455',
     projectId: 'pokedex-998ae',
     storageBucket: 'pokedex-998ae.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBSAVP1P5vw8FiWnGv9AL3s_xKfZOI7aNk',
-    appId: '1:646016974455:ios:e8d1c35580da8362af1072',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '646016974455',
     projectId: 'pokedex-998ae',
     storageBucket: 'pokedex-998ae.appspot.com',
@@ -71,8 +71,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBSAVP1P5vw8FiWnGv9AL3s_xKfZOI7aNk',
-    appId: '1:646016974455:ios:56462fe783eaf7fdaf1072',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '646016974455',
     projectId: 'pokedex-998ae',
     storageBucket: 'pokedex-998ae.appspot.com',
