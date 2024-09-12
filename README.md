@@ -3,7 +3,7 @@ Pokemon Encyclopedia Application
 
 Photos of Project:
 
-<img src="https://github.com/user-attachments/assets/682ce47a-6139-42e9-b6e9-91dfa5381307" width="200" padding:10px>
+<img src="https://github.com/user-attachments/assets/682ce47a-6139-42e9-b6e9-91dfa5381307" width="200" padding:50px>
 
 <img src="https://github.com/user-attachments/assets/db13210c-300e-4a1b-9df9-9361e15c9705" width="200">
 
