@@ -6,8 +6,8 @@ Pokemon Encyclopedia Application
 <p><strong>Pokedex</strong></p>
 <img src="https://github.com/user-attachments/assets/682ce47a-6139-42e9-b6e9-91dfa5381307" width="200">
 
-<img src="https://github.com/user-attachments/assets/db13210c-300e-4a1b-9df9-9361e15c9705" width="200"><br>
-
+<img src="https://github.com/user-attachments/assets/db13210c-300e-4a1b-9df9-9361e15c9705" width="200">
+<br>
 <img src="https://github.com/user-attachments/assets/f94808c8-6658-4362-8152-cc76f799f6b9" width="200">
 
 <img src="https://github.com/user-attachments/assets/13ff2f0c-c35a-4659-90dc-5c0d01e0dcaa" width="200">
