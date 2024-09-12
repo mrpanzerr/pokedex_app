@@ -38,3 +38,8 @@ Pokemon Encyclopedia Application
     <td colspan="2"><img src="https://github.com/user-attachments/assets/5fe987ca-1fac-4830-bccc-ff5285ebbc06" width="200"></td>
   </tr>
 </table>
+
+# Video Demonstration of App
+<a href="https://youtu.be/JjgPIWeoCsI">
+  <img src="https://github.com/user-attachments/assets/4ff751bf-2745-474f-8e14-971783e7a635" width="200" alt="Watch the video">
+</a>
