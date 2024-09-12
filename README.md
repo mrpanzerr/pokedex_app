@@ -31,3 +31,6 @@ Pokemon Encyclopedia Application
 <img src="https://github.com/user-attachments/assets/8187cf82-8f9c-478a-a361-b188de029923" width="200">
 <p align="center">Detailed Info Page</p>
 <br><br>
+
+<p><strong>Profile Customization</strong></p>
+<img src="https://github.com/user-attachments/assets/6511084e-0e86-466d-a375-4f8abe5353f1" width="200">
