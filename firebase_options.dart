@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDZF1P_5lyw8sqf0mLNx9mVgJU_1jVjLNQ',
+    apiKey: '',
     appId: '1:646016974455:web:b02c89e2773832b1af1072',
     messagingSenderId: '646016974455',
     projectId: 'pokedex-998ae',
