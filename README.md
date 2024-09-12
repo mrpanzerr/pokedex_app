@@ -9,6 +9,7 @@ Pokemon Encyclopedia Application
 <img src="https://github.com/user-attachments/assets/f94808c8-6658-4362-8152-cc76f799f6b9" width="200">
 <br>
 
+<p><strong>Secure Login and Account Creation</strong></p>
 <img src="https://github.com/user-attachments/assets/13ff2f0c-c35a-4659-90dc-5c0d01e0dcaa" width="200">
 
 <img src="https://github.com/user-attachments/assets/445a01a7-3d13-4779-bfea-52178e2fcb53" width="200">
