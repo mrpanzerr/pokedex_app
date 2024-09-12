@@ -1,5 +1,36 @@
-# pokedex_app
-Pokemon Encyclopedia Application
+# Pokedex App Overview
+
+The Pokedex App is a Flutter-based application that provides a comprehensive and interactive experience for Pokémon enthusiasts. Users can create secure accounts, manage their profiles, and explore a wide range of Pokémon data. The app integrates with Google Firebase and Firestore for data management and offers a rich set of features, including search functionality, favorites, and camera integration.
+
+## Features
+
+- **Secure Account Management:**
+  - **Signup:** Create a new account with secure authentication.
+  - **Login/Logout:** Access and manage your account securely.
+
+- **Database Integration:**
+  - Connected to Google Firebase and Firestore for seamless data storage and retrieval.
+
+- **Search Functionality:**
+  - Search Pokémon by name to find detailed information quickly.
+
+- **Favorites:**
+  - Add Pokémon to your favorites list.
+  - Search and filter through your list of favorite Pokémon.
+
+- **Profile Customization:**
+  - Use the camera functionality to customize your profile with a personalized photo.
+
+- **Navigation:**
+  - Clickable buttons for easy navigation between different pages and features.
+
+## Usage
+
+- **Sign Up:** Create a new account using the signup screen.
+- **Login:** Access your account using your email and password.
+- **Explore:** Search for Pokémon and view detailed information.
+- **Favorite:** Add Pokémon to your favorites and view them from the favorites page.
+- **Customize Profile:** Use the camera to set a profile picture.
 
 # Photos of Project
 
@@ -43,3 +74,7 @@ Pokemon Encyclopedia Application
 <a href="https://youtu.be/JjgPIWeoCsI">
   <img src="https://github.com/user-attachments/assets/4ff751bf-2745-474f-8e14-971783e7a635" width="200" alt="Watch the video">
 </a>
+
+## Contact
+
+For any questions or feedback, please contact me at [gaetanopanzer01@gmail.com](mailto:gaetanopanzer01@gmail.com).
